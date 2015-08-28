@@ -1,0 +1,363 @@
+//**********************
+//***     STATS     ***
+//**********************
+AddedLife		+# to maximum Life
+AddedMana		+# to maximum Mana
+AddedAllAttributes		+# to all Attributes
+AddedDexterity		+# to Dexterity
+AddedStrength		+# to Strength
+AddedIntelligence		+# to Intelligence
+AddedStrengthIntelligence		+# to Strength and Intelligence
+AddedStrengthDexterity		+# to Strength and Dexterity
+AddedDexterityIntelligence		+# to Dexterity and Intelligence
+
+IncreasedLife		#% increased maximum Life
+IncreasedMana		#% increased maximum Mana
+
+//**********************
+//***     DAMAGE     ***
+//**********************
+
+//Added Base Damage
+AddedMinChaosDamage		Adds #-? Chaos Damage
+AddedMaxChaosDamage		Adds ?-# Chaos Damage
+AddedMinColdDamage		Adds #-? Cold Damage
+AddedMaxColdDamage		Adds ?-# Cold Damage
+AddedMinColdSpellDamage		Adds #-? Cold Damage to Spells
+AddedMaxColdSpellDamage		Adds ?-# Cold Damage to Spells
+AddedMinColdAttackDamage		Adds #-? Cold Damage to Attacks
+AddedMaxColdAttackDamage		Adds ?-# Cold Damage to Attacks
+AddedMinFireDamage		Adds #-? Fire Damage
+AddedMaxFireDamage		Adds ?-# Fire Damage
+AddedMinFireSpellDamage		Adds #-? Fire Damage to Spells
+AddedMaxFireSpellDamage		Adds ?-# Fire Damage to Spells
+AddedMinFireAttackDamage		Adds #-? Fire Damage to Attacks
+AddedMaxFireAttackDamage		Adds ?-# Fire Damage to Attacks
+AddedMinBowFireAttackDamage		Adds #-? Fire Damage to Attacks with Bows
+AddedMaxBowFireAttackDamage		Adds ?-# Fire Damage to Attacks with Bows
+AddedMinLightningDamage		Adds #-? Lightning Damage
+AddedMaxLightningDamage		Adds ?-# Lightning Damage
+AddedMinLightningSpellDamage		Adds #-? Lightning Damage to Spells
+AddedMaxLightningSpellDamage		Adds ?-# Lightning Damage to Spells
+AddedMinLightningAttackDamage		Adds #-? Lightning Damage to Attacks
+AddedMaxLightningAttackDamage		Adds ?-# Lightning Damage to Attacks
+AddedMinChaosDamage		Adds #-? Chaos Damage
+AddedMaxChaosDamage		Adds ?-# Chaos Damage
+AddedMinChaosSpellDamage		Adds #-? Chaos Damage to Spells
+AddedMaxChaosSpellDamage		Adds ?-# Chaos Damage to Spells
+AddedMinChaosAttackDamage		Adds #-? Chaos Damage to Attacks
+AddedMaxChaosAttackDamage		Adds ?-# Chaos Damage to Attacks
+AddedMinPhysicalDamage		Adds #-? Physical Damage
+AddedMaxPhysicalDamage		Adds ?-# Physical Damage
+AddedMinPhysicalAttackDamage		Adds #-? Physical Damage to Attacks
+AddedMaxPhysicalAttackDamage		Adds ?-# Physical Damage to Attacks
+AddedMinBowPhysicalAttackDamage		Adds #-? Physical Damage to Attacks with Bows
+AddedMaxBowPhysicalAttackDamage		Adds ?-# Physical Damage to Attacks with Bows
+
+//Increased Base Damage
+IncreasedDamage		#% increased Damage
+IncreasedTrapDamage		#% increased Trap Damage
+IncreasedAreaDamage		#% increased Area Damage
+IncreasedMeleeDamage		#% increased Melee Damage
+IncreasedTotemDamage		#% increased Totem Damage
+IncreasedMineDamage		#% increased Mine Damage
+IncreasedDamageOverTime		#% increased Damage over Time
+IncreasedProjectileDamage		#% increased Projectile Damage
+IncreasedChaosDamage		#% increased Chaos Damage
+IncreasedColdDamage		#% increased Cold Damage
+IncreasedFireDamage		#% increased Fire Damage
+IncreasedLightningDamage		#% increased Lightning Damage
+IncreasedElementalDamage		#% increased Elemental Damage
+IncreasedWeaponElementalDamage		#% increased Elemental Damage with Weapons
+IncreasedSpellDamage		#% increased Spell Damage
+IncreasedShieldSpellDamage		#% increased Spell Damage while holding a Shield
+IncreasedDualWieldSpellDamage		#% increased Spell Damage while Dual Wielding
+IncreasedStaffSpellDamage		#% increased Spell Damage while wielding a Staff
+IncreasedPhysicalDamage		#% increased Physical Damage
+IncreasedMacePhysicalDamage		#% increased Physical Damage with Maces
+IncreasedTwoHandedMeleePhysicalDamage		#% increased Physical Damage with Two Handed Melee Weapons
+IncreasedWandPhysicalDamage		#% increased Physical Damage with Wands
+IncreasedBowPhysicalDamage		#% increased Physical Damage with Bows
+IncreasedShieldPhysicalDamage		#% increased Melee Physical Damage while holding a Shield
+IncreasedDualWieldPhysicalDamage		#% increased Physical Weapon Damage while Dual Wielding
+IncreasedStaffPhysicalDamage		#% increased Physical Damage with Staves
+IncreasedOneHandedMeleePhysicalDamage		#% increased Physical Damage with One Handed Melee Weapons
+IncreasedDaggerPhysicalDamage		#% increased Physical Damage with Daggers
+IncreasedSwordPhysicalDamage		#% increased Physical Damage with Swords
+IncreasedAxePhysicalDamage		#% increased Physical Damage with Axes
+IncreasedClawPhysicalDamage		#% increased Physical Damage with Claws
+
+
+//Crit
+
+IncreasedGlobalCritChance		#% increased Global Critical Strike Chance
+IncreasedLocalCritChance		#% increased Critical Strike Chance
+IncreasedSpellCritChance		#% increased Critical Strike Chance for Spells
+IncreasedElementalCritChance		#% increased Critical Strike Chance with Elemental Skills
+IncreasedColdCritChance		#% increased Critical Strike Chance with Cold Skills
+IncreasedFireCritChance		#% increased Critical Strike Chance with Fire Skills
+IncreasedLightningCritChance		#% increased Critical Strike Chance with Lightning Skills
+IncreasedMeleeCritChance		#% increased Melee Critical Strike Chance
+IncreasedOneHandedMeleeCritChance		#% increased Critical Strike Chance with One Handed Melee Weapons
+IncreasedTwoHandedMeleeCritChance		#% increased Critical Strike Chance with Two Handed Melee Weapons
+IncreasedDualWieldCritChance		#% increased Weapon Critical Strike Chance while Dual Wielding
+
+IncreasedGlobalCritMultiplier		#% increased Global Critical Strike Multiplier
+IncreasedSpellCritMultiplier		#% increased Critical Strike Multiplier for Spells
+IncreasedElementalCritMultiplier		#% increased Critical Strike Multiplier with Elemental Skills
+IncreasedColdCritMultiplier		#% increased Critical Strike Multiplier with Cold Skills
+IncreasedFireCritMultiplier		#% increased Critical Strike Multiplier with Fire Skills
+IncreasedLightningCritMultiplier		#% increased Critical Strike Multiplier with Lightning Skills
+IncreasedMeleeCritMultiplier		#% increased Melee Critical Strike Multiplier
+IncreasedOneHandedMeleeCritMultiplier		#% increased Critical Strike Multiplier with One Handed Melee Weapons
+IncreasedDualWieldCritMultiplier		#% increased Critical Strike Multiplier while Dual Wielding
+IncreasedTwoHandedMeleeCritMultiplier		#% increased Critical Strike Multiplier with Two Handed Melee Weapons
+
+//Accuracy
+AddedAccuracy		+# to Accuracy Rating
+IncreasedAccuracy		#% increased Accuracy Rating
+HasCantBeEvaded		Hits can't be Evaded
+
+//Conversion
+PhysicalDamageConvertedToCold		#% of Physical Damage Converted to Cold Damage
+PhysicalDamageConvertedToFire		#% of Physical Damage Converted to Fire Damage
+PhysicalDamageConvertedToLightning		#% of Physical Damage Converted to Lightning Damage
+
+//Bleed
+BleedOnHitChance		#% chance to cause Bleeding on Hit
+HasCausesBleedingOnHit		Causes Bleeding on Hit
+
+
+//**********************
+//***     SPEED      ***
+//**********************
+IncreasedProjectileSpeed		#% increased Projectile Speed
+IncreasedMineLayingSpeed		#% increased Mine Laying Speed
+IncreasedTrapThrowingSpeed		#% increased Trap Throwing Speed
+IncreasedMovementSpeed		#% increased Movement Speed
+IncreasedAttackSpeed		#% increased Attack Speed
+IncreasedOneHandedMeleeAttackSpeed		#% increased Attack Speed with One Handed Melee Weapons
+IncreasedMaceAttackSpeed		#% increased Attack Speed with Maces
+IncreasedStaffAttackSpeed		#% increased Attack Speed with Staves
+IncreasedShieldAttackSpeed		#% increased Attack Speed while holding a Shield
+IncreasedAxeAttackSpeed		#% increased Attack Speed with Axes
+IncreasedSwordAttackSpeed		#% increased Attack Speed with Swords
+IncreasedDaggerAttackSpeed		#% increased Attack Speed with Daggers
+IncreasedDualWieldAttackSpeed		#% increased Attack Speed while Dual Wielding
+IncreasedWandAttackSpeed		#% increased Attack Speed with Wands
+IncreasedClawAttackSpeed		#% increased Attack Speed with Claws
+IncreasedBowAttackSpeed		#% increased Attack Speed with Bows
+IncreasedTwoHandedMeleeAttackSpeed		#% increased Attack Speed with Two Handed Melee Weapons
+IncreasedAttackCastSpeed		#% increased Attack and Cast Speed
+IncreasedCastSpeed		#% increased Cast Speed
+IncreasedFireCastSpeed		#% increased Cast Speed with Fire Skills
+IncreasedColdCastSpeed		#% increased Cast Speed with Cold Skills
+IncreasedLightningCastSpeed		#% increased Cast Speed with Lightning Skills
+IncreasedDualWieldCastSpeed		#% increased Cast Speed while Dual Wielding
+IncreasedStaffCastSpeed		#% increased Cast Speed while wielding a Staff
+IncreasedShieldCastSpeed		#% increased Cast Speed while holding a Shield
+
+
+//**********************
+//***    DEFENSE     ***
+//**********************
+//Regular Defense
+AddedArmour		+# to Armour
+AddedEnergyShield		+# to maximum Energy Shield
+AddedEvasion		+# to Evasion Rating
+IncreasedArmour		#% increased Armour
+IncreasedEnergyShield		#% increased Energy Shield
+IncreasedEvasion		#% increased Evasion Rating
+IncreasedArmourEnergyShield		#% increased Armour and Energy Shield
+IncreasedArmourEvasion		#% increased Armour and Evasion
+IncreasedEvasionEnergyShield		#% increased Evasion and Energy Shield
+IncreasedArmourEvasionEnergyShield		#% increased Armour, Evasion and Energy Shield
+//Block
+AddedBlockChance		#% Chance to Block
+AddedBlockChance		#% additional Block Chance
+//--AddedBlockChance can appear in two forms. Both get internally added together
+AddedBlockChance		+#% Chance to Block
+AddedStaffBlockChance		#% additional Chance to Block with Staves
+AddedDualWieldBlockChance		#% additional Block Chance while Dual Wielding
+AddedShieldBlockChance		#% additional Chance to Block with Shields
+AddedShieldBlockChance		#% Chance to Block with Shields
+AddedSpellBlockChance		#% Chance to Block Spells
+AddedDualWiedSpellBlockChance		#% additional Chance to Block Spells while Dual Wielding
+AddedStaffSpellBlockChance		#% additional Chance to Block Spells with Staves
+AddedShieldSpellBlockChance		#% additional Chance to Block Spells with Shields
+//Dodge
+AttackDodge		#% chance to Dodge Attacks
+//Other reduction
+MinusPhysicalAttackDamageTaken		-# Physical Damage taken from Attacks
+HitDamageTakenFromManaBeforeLife		When Hit, #% of Damage is taken from Mana before Life
+
+//Resistances
+MaximumAllResistances		+#% to all maximum Resistances
+ColdResistance		+#% to Cold Resistance
+FireResistance		+#% to Fire Resistance
+LightningResistance		+#% to Lightning Resistance
+ChaosResistance		+#% to Chaos Resistance
+ElementalResistances		+#% to all Elemental Resistances
+FireLightningResistances		+#% to Fire and Lightning Resistances
+FireColdResistances		+#% to Fire and Cold Resistances
+ColdLightningResistances		+#% to Cold and Lightning Resistances
+
+//Ailment Avoidance
+FreezeAvoidance		#% chance to Avoid being Frozen
+ShockAvoidance		#% chance to Avoid being Shocked
+IgniteAvoidance		#% chance to Avoid being Ignited
+
+
+//**********************
+//***    RECOVERY    ***
+//**********************
+//Ailment Recovery
+IncreasedBlockStunRecovery		#% increased Block and Stun Recovery
+IncreasedStunRecovery		#% increased Stun Recovery
+IncreasedBlockRecovery		#% increased Block Recovery
+
+IncreasedEnergyShieldRechargeRate		#% increased Energy Shield Recharge Rate
+//Dual Recovery
+LifeAndManaPerHit		+# Life and Mana gained for each Enemy hit
+//Life Recovery
+PhysicalAttackLifeLeech		#% of Physical Attack Damage Leeched as Life
+ColdDamageLifeLeech		#% of Cold Damage Leeched as Life
+FireDamageLifeLeech		#% of Fire Damage Leeched as Life
+LightningDamageLifeLeech		#% of Lightning Damage Leeched as Life
+IncreasedLifeLeechRate		#% increased Life Leeched per second
+LifePerAttackHit		+# Life gained for each Enemy hit by your Attacks
+LifePerAttackHit		+# Life gained for each Enemy hit by Attacks
+LifePerKill		+# Life gained on Kill
+LifePerSecond		# Life Regenerated per second
+//Mana Recovery
+PhysicalAttackManaLeech		#% of Physical Attack Damage Leeched as Mana
+ManaPerKill		+# Mana Gained on Kill
+ManaPerYourAttackHit		# Mana gained for each Enemy hit by your Attacks
+IncreasedManaRegeneration		#% increased Mana Regeneration Rate
+HitDamageTakenGainedAsMana		#% of Damage taken Gained as Mana when Hit
+//ES Recovery
+EnergyShieldPerKill		# Energy Shield gained for each Enemy hit by your Attacks
+FasterEnergyShieldRecovery		#% faster start of Energy Shield Recharge
+
+//**********************
+//*** MINIONS/TOTEMS ***
+//**********************
+
+IncreasedTotemLife		#% increased Totem Life
+IncreasedMinionDamage		Minions deal #% increased Damage
+IncreasedMinionLife		Minions have #% increased maximum Life
+IncreasedMinionResistances		Minions have #% to all Elemental Resistances
+IncreasedTotemResistances		Totems gain #% to all Elemental Resistances
+IncreasedMinionBlockChance		Minions have #% Chance to Block
+
+//**********************
+//***  SOCKETS/GEMS  ***
+//**********************
+
+//Additional Socket (on unset ring)
+AddedSocket		Has # Socket
+
+//Additional Level to skills
+AddedGemLevel		+# to Level of Socketed Gems
+AddedMeleeGemLevel		+# to Level of Socketed Melee Gems
+AddedBowGemLevel		+# to Level of Socketed Bow Gems
+AddedColdGemLevel		+# to Level of Socketed Cold Gems
+AddedFireGemLevel		+# to Level of Socketed Fire Gems
+AddedLightningGemLevel		+# to Level of Socketed Lightning Gems
+AddedMinionGemLevel		+# to Level of Socketed Minion Gems
+AddedVaalGemLevel		+# to Level of Vaal Gems in this item
+AddedSupportGemLevel		+# to Level of Support Gems in this item
+AddedSupportGemQuality		+#% to Quality of Support Gems in this item
+
+//Skills Granted
+LevelFrostbiteGranted		Grants level # Frostbite Skill
+LevelFlammabilityGranted		Grants level # Flammability Skill
+LevelConductivityGranted		Grants level # Conductivity Skill
+LevelPurityOfElementsGranted		Grants level # Purity of Elements Skill
+LevelAssassinsMarkGranted		Grants level # Assassin's Mark Skill
+LevelPurityOfFireGranted		Grants level # Purity of Fire Skill
+LevelPurityOfIceGranted		Grants level # Purity of Ice Skill
+LevelPurityOfLightningGranted		Grants level # Purity of Lightning Skill
+LevelWrathGranted		Grants level # Wrath Skill
+LevelHatredGranted		Grants level # Hatred Skill
+LevelAngerGranted		Grants level # Anger Skill
+LevelDeterminationGranted		Grants level # Determination Skill
+LevelGraceGranted		Grants level # Grace Skill
+LevelDisciplineGranted		Grants level # Discipline Skill
+LevelProjectileWeaknessGranted		Grants level # Projectile Weakness Skill
+LevelElementalWeaknessGranted		Grants level # Elemental Weakness Skill
+LevelVulnerabilityGranted		Grants level # Vulnerability Skill
+LevelClarityGranted		Grants level # Clarity Skill
+LevelTemporalChainsGranted		Grants level # Temporal Chains Skill
+LevelHasteGranted		Grants level # Haste Skill
+LevelVitalityGranted		Grants level # Vitality Skill
+
+//Skills Supported
+LevelSupportedWithCastWhenStunned		Gems in this item are supported by level # Cast when Stunned
+LevelSupportedWithCastOnCrit		Gems in this item are supported by level # Cast On Crit
+LevelSupportedWithMeleeSplash		Gems in this item are supported by level # Melee Splash
+LevelSupportedWithAddedFireDamage		Gems in this item are supported by level # Added Fire Damage
+LevelSupportedWithStun		Gems in this item are supported by level # Stun
+LevelSupportedWithElementalProliferation		Gems in this item are Supported by level # Elemental Proliferation
+LevelSupportedWithAdditionalAccuracy		Gems in this item are supported by level # Additional Accuracy
+LevelSupportedWithMultistrike		Gems in this item are supported by level # Multistrike
+LevelSupportedWithIncreasedAoE		Gems in this item are supported by level # Increased Area of Effect
+LevelSupportedWithLifeLeech		Gems in this item are supported by level # Life Leech
+LevelSupportedWithIncreasedCriticalDamage		Gems in this item are supported by level # Increased Critical Damage
+LevelSupportedWithFork		Gems in this item are supported by level # Fork
+LevelSupportedWithWeaponElementalDamage		Gems in this item are supported by level # Weapon Elemental Damage
+LevelSupportedWithFasterCasting		Gems in this item are supported by level # Faster Casting
+
+//Curse on hit
+LevelTemporalChainsOnHit		Curse Enemies with level # Temporal Chains on Hit
+LevelVulnerabilityOnHit		Curse Enemies with level # Vulnerability on Hit
+LevelElementalWeaknessOnHit		Curse Enemies with level # Elemental Weakness on Hit
+
+//**********************
+//***    CHARGES     ***
+//**********************
+
+AddedMaximumFrenzyCharges		+# Maximum Frenzy Charge
+AddedMaximumPowerCharges		+# Maximum Power Charge
+AddedMaximumEnduranceCharges		+# Maximum Endurance Charge
+
+
+//**********************
+//***     OTHER      ***
+//**********************
+
+//Ailments
+IncreasedEnemyStunDuration		#% increased Stun Duration on Enemies
+ReducedEnemyStunThreshold		#% reduced Enemy Stun Threshold
+IncreasedIgniteChance		#% chance to Ignite
+IncreasedShockChance		#% chance to Shock
+IncreasedFreezeChance		#% chance to Freeze
+//Flasks
+IncreasedFlaskLifeRecoveryRate		#% increased Flask Life Recovery rate
+IncreasedFlaskManaRecoveryRate		#% increased Flask Mana Recovery rate
+IncreasedFlaskChargesGained		#% increased Flask Charges gained
+ReducedFlaskChargesUsed		#% reduced Flask Charges used
+IncreasedFlaskDuration		#% increased Flask effect duration
+//Magic Find
+IncreasedItemRarity		#% increased Rarity of Items found
+IncreasedItemQuantity		#% increased Quantity of Items found
+//No Category
+PhysicalMeleeReflect		Reflects # Physical Damage to Melee Attackers
+IncreasedLightRadius		#% increased Light Radius
+ReducedAttributeRequirements		#% reduced Attribute Requirements
+IncreasedAoE		#% increased Radius of Area Skills
+IncreasedKnockbackChance		#% chance to Knock Enemies Back on hit
+ReducedManaCost		#% reduced Mana Cost of Skills
+ArrowPierceChance		#% chance of Arrows Piercing
+ProjectilePierceChance		#% chance of Projectiles Piercing
+ElementalResistancesPenetration		Damage Penetrates #% Elemental Resistances
+ChanceToCauseMonstersFlee		#% Chance to Cause Monsters to Flee
+AddedAllowedCurses		Enemies can have # additional Curse
+AddedAllowedTraps		Can set up to # additional trap
+IncreasedSkillEffectDuration		#% increased Skill Effect Duration
+AddedWeaponRange		+# to Weapon range
+ManaMultiplier		Skill Gems in this item get a #% Mana Multiplier
+ManaReduction		-# to Mana Cost of Skills
+HasCullingStrike		Culling Strike
+HasCantBeKnockedBack		Cannot be Knocked Back
+HasAdditionalArrow		Adds an additional Arrow

@@ -1,0 +1,661 @@
+Base Min Added Cold Dmg / Base Max Added Cold Dmg;1 / 2;Frosted;2;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Cold Dmg / Base Max Added Cold Dmg;3 to 4 / 7 to 8;Chilled;13;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Cold Dmg / Base Max Added Cold Dmg;5 to 7 / 10 to 12;Icy;21;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Cold Dmg / Base Max Added Cold Dmg;6 to 9 / 13 to 16;Frigid;29;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Cold Dmg / Base Max Added Cold Dmg;8 to 11 / 16 to 19;Freezing;36;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Cold Dmg / Base Max Added Cold Dmg;10 to 13 / 20 to 24;Frozen;45;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Cold Dmg / Base Max Added Cold Dmg;12 to 16 / 24 to 28;Glaciated;53;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Cold Dmg / Base Max Added Cold Dmg;14 to 19 / 29 to 34;Polar;65;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Cold Dmg / Base Max Added Cold Dmg;17 to 22 / 34 to 40;Entombing;77;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Fire Dmg / Base Max Added Fire Dmg;1 / 2;Heated;1;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Fire Dmg / Base Max Added Fire Dmg;3 to 5 / 7 to 8;Smoldering;12;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Fire Dmg / Base Max Added Fire Dmg;5 to 7 / 11 to 13;Smoking;20;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Fire Dmg / Base Max Added Fire Dmg;7 to 10 / 15 to 18;Burning;28;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Fire Dmg / Base Max Added Fire Dmg;9 to 12 / 19 to 22;Flaming;35;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Fire Dmg / Base Max Added Fire Dmg;11 to 15 / 23 to 27;Scorching;44;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Fire Dmg / Base Max Added Fire Dmg;13 to 18 / 27 to 31;Incinerating;52;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Fire Dmg / Base Max Added Fire Dmg;16 to 22 / 32 to 38;Blasting;64;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Fire Dmg / Base Max Added Fire Dmg;19 to 25 / 39 to 45;Cremating;76;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Lightning Dmg / Base Max Added Lightning Dmg;1 / 5;Humming;3;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Lightning Dmg / Base Max Added Lightning Dmg;1 / 14 to 15;Buzzing;13;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Lightning Dmg / Base Max Added Lightning Dmg;1 to 2 / 22 to 23;Snapping;22;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Lightning Dmg / Base Max Added Lightning Dmg;1 to 2 / 27 to 28;Crackling;28;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Lightning Dmg / Base Max Added Lightning Dmg;1 to 3 / 33 to 34;Sparking;35;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Lightning Dmg / Base Max Added Lightning Dmg;1 to 4 / 40 to 43;Arcing;44;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Lightning Dmg / Base Max Added Lightning Dmg;2 to 5 / 47 to 50;Shocking;52;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Lightning Dmg / Base Max Added Lightning Dmg;3 to 6 / 57 to 61;Discharging;64;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Lightning Dmg / Base Max Added Lightning Dmg;3 to 7 / 68 to 72;Electrocuting;76;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Physical Dmg / Base Max Added Physical Dmg;1 / 2;Glinting;5;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Physical Dmg / Base Max Added Physical Dmg;2 to 3 / 4 to 5;Burnished;13;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Physical Dmg / Base Max Added Physical Dmg;3 to 4 / 6 to 7;Polished;19;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Physical Dmg / Base Max Added Physical Dmg;4 to 6 / 9 to 10;Honed;28;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Min Added Physical Dmg / Base Max Added Physical Dmg;5 to 7 / 11 to 12;Gleaming;35;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Physical Dmg / Base Max Added Physical Dmg;6 to 9 / 13 to 15;Annealed;44;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Physical Dmg / Base Max Added Physical Dmg;7 to 10 / 15 to 18;Razor Sharp;52;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Physical Dmg / Base Max Added Physical Dmg;9 to 12 / 19 to 22;Tempered;64;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Min Added Physical Dmg / Base Max Added Physical Dmg;11 to 15 / 22 to 26;Flaring;76;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Local Min Added Chaos Dmg / Local Max Added Chaos Dmg;47 to 72 / 98 to 123;Malicious;83;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;1 / 2 to 3;Glinting;2;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;No
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;4 to 5 / 8 to 10;Burnished;13;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;No
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;6 to 8 / 12 to 14;Polished;21;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;No
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;7 to 10 / 15 to 18;Honed;29;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;No
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;9 to 12 / 19 to 22;Gleaming;36;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;No
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;12 to 16 / 24 to 28;Annealed;46;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;No
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;13 to 18 / 27 to 32;Razor Sharp;54;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;No
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;16 to 22 / 33 to 38;Tempered;65;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;No
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;19 to 25 / 38 to 45;Flaring;77;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;No
+Local Min Added Chaos Dmg / Local Max Added Chaos Dmg;70 to 108 / 147 to 185;Malicious;83;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;2 / 4 to 5;Glinting;2;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;Yes
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;6 to 8 / 12 to 14;Burnished;13;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;Yes
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;9 to 12 / 18 to 21;Polished;21;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;Yes
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;11 to 15 / 23 to 27;Honed;29;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;Yes
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;14 to 19 / 28 to 33;Gleaming;36;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;Yes
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;18 to 24 / 36 to 42;Annealed;46;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;Yes
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;20 to 27 / 41 to 48;Razor Sharp;54;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;Yes
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;24 to 33 / 49 to 57;Tempered;65;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;Yes
+Local Min Added Physical Dmg / Local Max Added Physical Dmg;29 to 38 / 58 to 68;Flaring;77;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;Yes
+Physical Dmg To Return To Melee Attacker;1 to 4;Thorny;1;Prefix;No;No;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Physical Dmg To Return To Melee Attacker;5 to 10;Spiny;10;Prefix;No;No;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Physical Dmg To Return To Melee Attacker;11 to 24;Barbed;20;Prefix;No;No;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Physical Dmg To Return To Melee Attacker;25 to 50;Jagged;35;Prefix;No;No;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Local Physical Dmg +%;40 to 49;Heavy;1;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +%;50 to 64;Serrated;11;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +%;65 to 84;Wicked;23;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +%;85 to 109;Vicious;35;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +%;110 to 134;Bloodthirsty;46;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +%;135 to 154;Cruel;60;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +%;155 to 169;Tyrannical;73;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +%;170 to 179;Merciless;83;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +% / Local Accuracy Rating;15 to 19 / 3 to 7;Squire's;1;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +% / Local Accuracy Rating;20 to 24 / 8 to 30;Journeyman's;11;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +% / Local Accuracy Rating;25 to 34 / 31 to 50;Reaver's;23;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +% / Local Accuracy Rating;35 to 44 / 51 to 64;Mercenary's;35;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +% / Local Accuracy Rating;45 to 54 / 65 to 82;Champion's;46;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +% / Local Accuracy Rating;55 to 64 / 83 to 99;Conqueror's;60;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +% / Local Accuracy Rating;65 to 74 / 100 to 134;Emperor's;73;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Physical Dmg +% / Local Accuracy Rating;75 to 79 / 135 to 169;Dictator's;83;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Armor Rating;3 to 10;Lacquered;1;Prefix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating;11 to 35;Studded;18;Prefix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating;36 to 60;Ribbed;30;Prefix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating;61 to 138;Fortified;44;Prefix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating;139 to 322;Plated;57;Prefix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating;323 to 400;Carapaced;71;Prefix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating;401 to 460;Encased;83;Prefix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armor Rating;3 to 10;Lacquered;1;Prefix;No;No;No;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;No;No;No;No;No;No;No
+Local Armor Rating;11 to 35;Studded;18;Prefix;No;No;No;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;No;No;No;No;No;No;No
+Local Armor Rating;36 to 60;Ribbed;30;Prefix;No;No;No;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;No;No;No;No;No;No;No
+Local Armor Rating;61 to 138;Fortified;46;Prefix;No;No;No;Yes (str);No;No;Yes (str);Yes (str);No;No;No;No;No;No;No;No;No;No;No
+Local Armor Rating;139 to 322;Plated;59;Prefix;No;No;No;No;No;No;Yes (str);Yes (str);No;No;No;No;No;No;No;No;No;No;No
+Local Armor Rating;323 to 400;Carapaced;73;Prefix;No;No;No;No;No;No;Yes (str);Yes (str);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +%;11 to 28;Reinforced;3;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +%;29 to 46;Layered;17;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +%;47 to 64;Lobstered;29;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +%;65 to 82;Buttressed;42;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +%;83 to 100;Thickened;60;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +%;101 to 120;Girded;72;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +%;121 to 132;Impregnable;84;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Armor Rating +%;2 to 4;Reinforced;2;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating +%;5 to 7;Layered;18;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating +%;8 to 10;Lobstered;30;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating +%;11 to 13;Buttressed;42;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating +%;14 to 16;Thickened;56;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating +%;17 to 19;Solid;70;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Armor Rating +%;20 to 22;Impregnable;77;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armor +% / Base Stun Recovery +%;6 to 14 / 6 to 7;Beetle's;1;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +% / Base Stun Recovery +%;15 to 23 / 8 to 9;Crab's;17;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +% / Base Stun Recovery +%;24 to 32 / 10 to 11;Armadillo's;29;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +% / Base Stun Recovery +%;33 to 41 / 12 to 13;Rhino's;42;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +% / Base Stun Recovery +%;42 to 50 / 14 to 15;Elephant's;60;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Local Armor +% / Base Stun Recovery +%;51 to 56 / 16 to 17;Mammoth's;78;Prefix;No;No;No;Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);Yes (str-only);No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;1 to 3;Shining;3;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;4 to 8;Glimmering;11;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;9 to 12;Glittering;17;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;13 to 15;Glowing;23;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;16 to 19;Radiating;29;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;20 to 22;Pulsing;35;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;23 to 26;Seething;42;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;27 to 31;Blazing;50;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;32 to 37;Scintillating;59;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;38 to 43;Incandescent;68;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;44 to 47;Resplendent;74;Prefix;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Energy Shield;48 to 51;Dazzling;80;Prefix;No;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;3 to 5;Shining;3;Prefix;No;No;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;6 to 8;Glimmering;11;Prefix;No;No;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;9 to 12;Glittering;17;Prefix;No;No;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;13 to 15;Glowing;23;Prefix;No;No;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;16 to 19;Radiating;29;Prefix;No;No;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;20 to 29;Pulsing;35;Prefix;No;No;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;30 to 48;Seething;43;Prefix;No;No;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;49 to 72;Blazing;51;Prefix;No;No;No;Yes (int);No;No;Yes (int);Yes (int);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;73 to 106;Scintillating;60;Prefix;No;No;No;No;No;No;Yes (int);Yes (int);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;107 to 135;Incandescent;69;Prefix;No;No;No;No;No;No;Yes (int);Yes (int);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield;136 to 145;Resplendent;75;Prefix;No;No;No;No;No;No;Yes (int);No;No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +%;11 to 28;Protective;3;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +%;29 to 46;Strong-Willed;18;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +%;47 to 64;Resolute;30;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +%;65 to 82;Fearless;44;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +%;83 to 100;Dauntless;60;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +%;101 to 120;Indomitable;72;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +%;121 to 132;Unassailable;84;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Max Energy Shield +%;2 to 4;Protective;3;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Max Energy Shield +%;5 to 7;Strong-Willed;18;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Max Energy Shield +%;8 to 10;Resolute;30;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Max Energy Shield +%;11 to 13;Fearless;42;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Max Energy Shield +%;14 to 16;Dauntless;56;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Max Energy Shield +%;17 to 19;Indomitable;70;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Max Energy Shield +%;20 to 22;Unassailable;77;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +% / Base Stun Recovery +%;6 to 14 / 6 to 7;Pixie's;3;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +% / Base Stun Recovery +%;15 to 23 / 8 to 9;Gremlin's;18;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +% / Base Stun Recovery +%;24 to 32 / 10 to 11;Boggart's;30;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +% / Base Stun Recovery +%;33 to 41 / 12 to 13;Naga's;44;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +% / Base Stun Recovery +%;42 to 50 / 14 to 15;Djinn's;60;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Local Energy Shield +% / Base Stun Recovery +%;51 to 56 / 16 to 17;Seraphim's;78;Prefix;No;No;No;Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);Yes (int-only);No;No;No;No;No;No;No;No;No;No;No
+Base Evasion Rating;3 to 10;Agile;1;Prefix;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Evasion Rating;11 to 35;Dancer's;18;Prefix;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Evasion Rating;36 to 60;Acrobat's;29;Prefix;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Evasion Rating;61 to 80;Fleet;42;Prefix;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Evasion Rating;81 to 120;Blurred;58;Prefix;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Evasion Rating;121 to 150;Phased;72;Prefix;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Evasion Rating;151 to 170;Vaporous;84;Prefix;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Evasion Rating +%;2 to 4;Agile;2;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Evasion Rating +%;5 to 7;Dancer's;19;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Evasion Rating +%;8 to 10;Acrobat's;30;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Evasion Rating +%;11 to 13;Fleet;42;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Evasion Rating +%;14 to 16;Blurred;56;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Evasion Rating +%;17 to 19;Phased;70;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Evasion Rating +%;20 to 22;Vaporous;77;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating;3 to 10;Agile;1;Prefix;No;No;No;Yes (dex);Yes (dex);Yes (dex);Yes (dex);Yes (dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating;11 to 35;Dancer's;18;Prefix;No;No;No;Yes (dex);Yes (dex);Yes (dex);Yes (dex);Yes (dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating;36 to 60;Acrobat's;29;Prefix;No;No;No;Yes (dex);Yes (dex);Yes (dex);Yes (dex);Yes (dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating;61 to 138;Fleet;42;Prefix;No;No;No;Yes (dex);No;No;Yes (dex);Yes (dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating;139 to 322;Blurred;56;Prefix;No;No;No;No;No;No;Yes (dex);Yes (dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating;323 to 400;Phased;70;Prefix;No;No;No;No;No;No;Yes (dex);Yes (dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +%;11 to 28;Shade's;3;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +%;29 to 46;Ghost's;19;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +%;47 to 64;Spectre's;30;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +%;65 to 82;Wraith's;44;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +%;83 to 100;Phantasm's;60;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +%;101 to 120;Nightmare's;72;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +%;121 to 132;Mirage's;84;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +% / Base Stun Recovery +%;6 to 14 / 6 to 7;Mosquito's;2;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +% / Base Stun Recovery +%;15 to 23 / 8 to 9;Moth's;19;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +% / Base Stun Recovery +%;24 to 32 / 10 to 11;Butterfly's;30;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +% / Base Stun Recovery +%;33 to 41 / 12 to 13;Wasp's;44;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +% / Base Stun Recovery +%;42 to 50 / 14 to 15;Dragonfly's;60;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion Rating +% / Base Stun Recovery +%;51 to 56 / 16 to 17;Hummingbird's;78;Prefix;No;No;No;Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);Yes (dex-only);No;No;No;No;No;No;No;No;No;No;No
+Flask Life Recovery Rate +%;10 to 20;Recovering;5;Prefix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Flask Mana Recovery Rate +%;10 to 20;Inspiring;5;Prefix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Local Socketed Bow Gem Level +;1;Fletcher's;9;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No
+Local Socketed Bow Gem Level +;2;Sharpshooter's;64;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No
+Local Socketed Cold Gem Level +;1;Frost Weaver's;2;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Local Socketed Cold Gem Level +;2;Winterbringer's;55;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Local Socketed Fire Gem Level +;1;Flame Spinner's;2;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Local Socketed Fire Gem Level +;2;Lava Caller's;55;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Local Socketed Lightning Gem Level +;1;Thunder Lord's;2;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Local Socketed Lightning Gem Level +;2;Tempest King's;55;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Local Socketed Melee Gem Level +;1;Combatant's;8;Prefix;No;No;No;No;No;No;No;Yes (not Int);No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+Local Socketed Melee Gem Level +;2;Weaponmaster's;63;Prefix;No;No;No;No;No;No;No;Yes (not Int);No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+Local Socketed Minion Gem Level +;1;Reanimator's;14;Prefix;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Local Socketed Minion Gem Level +;2;Summoner's;65;Prefix;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Local Socketed Gem Level +;1;Paragon's;50;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Armour And Energy Shield +%;11 to 28;Infixed;3;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +%;29 to 46;Ingrained;19;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +%;47 to 64;Instilled;30;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +%;65 to 82;Infused;44;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +%;83 to 100;Inculcated;60;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +%;101 to 120;Interpolated;72;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +%;121 to 132;Inspired;84;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +%;11 to 28;Scrapper's;3;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +%;29 to 46;Brawler's;19;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +%;47 to 64;Fencer's;30;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +%;65 to 82;Gladiator's;44;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +%;83 to 100;Duelist's;60;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +%;101 to 120;Hero's;72;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +%;121 to 136;Legend's;84;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +%;11 to 28;Shadowy;3;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +%;29 to 46;Ethereal;19;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +%;47 to 64;Unworldly;30;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +%;65 to 82;Ephemeral;44;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +%;83 to 100;Evanescent;60;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +%;101 to 120;Unreal;72;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +%;121 to 132;Illusory;84;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +% / Base Stun Recovery +%;6 to 14 / 6 to 7;Pixie's;2;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +% / Base Stun Recovery +%;15 to 23 / 8 to 9;Gremlin's;19;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +% / Base Stun Recovery +%;24 to 32 / 10 to 11;Boggart's;30;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +% / Base Stun Recovery +%;33 to 41 / 12 to 13;Naga's;44;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +% / Base Stun Recovery +%;42 to 50 / 14 to 15;Djinn's;60;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Energy Shield +% / Base Stun Recovery +%;51 to 56 / 16 to 17;Seraphim's;78;Prefix;No;No;No;Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);Yes (int-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +% / Base Stun Recovery +%;6 to 14 / 6 to 7;Beetle's;2;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +% / Base Stun Recovery +%;15 to 23 / 8 to 9;Crab's;19;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +% / Base Stun Recovery +%;24 to 32 / 10 to 11;Armadillo's;30;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +% / Base Stun Recovery +%;33 to 41 / 12 to 13;Rhino's;44;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +% / Base Stun Recovery +%;42 to 50 / 14 to 15;Elephant's;60;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion +% / Base Stun Recovery +%;51 to 56 / 16 to 17;Mammoth's;78;Prefix;No;No;No;Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);Yes (dex-str);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +% / Base Stun Recovery +%;6 to 14 / 6 to 7;Mosquito's;2;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +% / Base Stun Recovery +%;15 to 23 / 8 to 9;Moth's;19;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +% / Base Stun Recovery +%;24 to 32 / 10 to 11;Butterfly's;30;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +% / Base Stun Recovery +%;33 to 41 / 12 to 13;Wasp's;44;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +% / Base Stun Recovery +%;42 to 50 / 14 to 15;Dragonfly's;60;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Local Evasion And Energy Shield +% / Base Stun Recovery +%;51 to 56 / 16 to 17;Hummingbird's;78;Prefix;No;No;No;Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);Yes (int-dex);No;No;No;No;No;No;No;No;No;No;No
+Base Item Found Rarity +%;8 to 12;Magpie's;20;Prefix;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Item Found Rarity +%;13 to 18;Pirate's;39;Prefix;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Item Found Rarity +%;19 to 24;Dragon's;62;Prefix;Yes;Yes;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Item Found Rarity +%;25 to 28;Perandus';84;Prefix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Max Life;3 to 9;Hale;1;Prefix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+Base Max Life;10 to 19;Healthy;5;Prefix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+Base Max Life;20 to 29;Sanguine;11;Prefix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+Base Max Life;30 to 39;Stalwart;18;Prefix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+Base Max Life;40 to 49;Stout;24;Prefix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+Base Max Life;50 to 59;Robust;30;Prefix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+Base Max Life;60 to 69;Rotund;36;Prefix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+Base Max Life;70 to 79;Virile;44;Prefix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+Base Max Life;80 to 89;Athlete's;54;Prefix;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+Base Max Life;90 to 99;Fecund;64;Prefix;No;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+Base Max Life;100 to 109;Vigorous;73;Prefix;No;No;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Max Life;110 to 119;Rapturous;81;Prefix;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No
+Life Leech From Physical Dmg %;0.2 to 0.4;Remora's;50;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Life Leech From Physical Dmg %;0.6 to 0.8;Lamprey's;60;Prefix;No;Yes;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+Life Leech From Physical Dmg %;1 to 1.2;Vampire's;70;Prefix;No;Yes;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+Base Max Mana;15 to 19;Beryl;1;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;20 to 24;Cobalt;11;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;25 to 29;Azure;17;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;30 to 34;Sapphire;23;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;35 to 39;Cerulean;29;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;40 to 44;Aqua;35;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;45 to 49;Opalescent;42;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;50 to 54;Gentian;51;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;55 to 59;Chalybeous;60;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;60 to 64;Mazarine;69;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;65 to 68;Blue;75;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Max Mana;69 to 73;Zaffre;81;Prefix;Yes;Yes;No;Yes (int);Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Mana Leech From Physical Dmg %;0.2 to 0.4;Thirsty;50;Prefix;Yes;Yes;No;No;Yes;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Mana Leech From Physical Dmg %;0.6 to 0.8;Parched;70;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Movement Velocity +%;10;Runner's;1;Prefix;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Movement Velocity +%;15;Sprinter's;15;Prefix;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Movement Velocity +%;20;Stallion's;30;Prefix;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Movement Velocity +%;25;Gazelle's;40;Prefix;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Movement Velocity +%;30;Cheetah's;55;Prefix;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No
+Spell Dmg +%;3 to 7;Chanter's;5;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Spell Dmg +%;8 to 12;Mage's;20;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Spell Dmg +%;13 to 17;Sorcerer's;38;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Spell Dmg +%;18 to 22;Thaumaturgist's;56;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Spell Dmg +%;23 to 26;Wizard's;76;Prefix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Weapon Elemental Dmg +%;5 to 10;Catalyzing;4;Prefix;Yes;Yes;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Weapon Elemental Dmg +%;11 to 20;Infusing;15;Prefix;Yes;Yes;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Weapon Elemental Dmg +%;21 to 30;Empowering;30;Prefix;Yes;Yes;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Weapon Elemental Dmg +%;31 to 36;Unleashed;60;Prefix;Yes;Yes;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Weapon Elemental Dmg +%;37 to 42;Overpowering;81;Prefix;Yes;Yes;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;1 to 2 / 3;Frosted;2;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;6 to 8 / 13 to 15;Chilled;12;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;10 to 13 / 19 to 23;Icy;19;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;14 to 18 / 27 to 32;Frigid;27;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;17 to 23 / 34 to 40;Freezing;34;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;22 to 29 / 43 to 50;Frozen;43;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;26 to 35 / 52 to 60;Glaciated;52;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;31 to 42 / 63 to 73;Polar;63;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;37 to 50 / 74 to 87;Entombing;75;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;1 to 2 / 3 to 4;Heated;1;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;8 to 10 / 15 to 18;Smouldering;11;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;12 to 16 / 24 to 28;Smoking;18;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;17 to 22 / 33 to 39;Burning;26;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;21 to 28 / 42 to 49;Flaming;33;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;26 to 35 / 53 to 61;Scorching;42;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;32 to 42 / 63 to 74;Incinerating;51;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;38 to 51 / 77 to 89;Blasting;62;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;45 to 61 / 91 to 106;Cremating;74;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;1 / 6;Humming;3;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;1 to 2 / 27 to 28;Buzzing;13;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;1 to 3 / 41 to 43;Snapping;19;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;2 to 5 / 58 to 61;Crackling;31;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;2 to 6 / 72 to 76;Sparking;34;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;2 to 7 / 91 to 96;Arcing;42;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;3 to 9 / 110 to 116;Shocking;51;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;4 to 11 / 133 to 140;Discharging;63;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;4 to 13 / 158 to 166;Electrocuting;74;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;No
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;2 to 3 / 4 to 5;Frosted;2;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;10 to 13 / 19 to 22;Chilled;12;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;15 to 20 / 29 to 34;Icy;19;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;21 to 27 / 41 to 48;Frigid;27;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;26 to 34 / 52 to 60;Freezing;34;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;32 to 43 / 65 to 76;Frozen;43;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;39 to 52 / 78 to 91;Glaciated;52;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;47 to 63 / 94 to 110;Polar;63;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Cold Dmg / Local Max Added Cold Dmg;56 to 75 / 112 to 131;Entombing;75;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;3 to 4 / 5 to 6;Heated;1;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;12 to 16 / 23 to 27;Smouldering;11;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;18 to 24 / 36 to 42;Smoking;18;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;25 to 34 / 50 to 59;Burning;26;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;32 to 42 / 63 to 74;Flaming;33;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;40 to 53 / 79 to 92;Scorching;42;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;48 to 64 / 95 to 111;Incinerating;51;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;58 to 77 / 115 to 134;Blasting;62;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Fire Dmg / Local Max Added Fire Dmg;68 to 91 / 137 to 160;Cremating;74;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;1 / 9 to 10;Humming;3;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;1 to 3 / 41 to 43;Buzzing;13;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;2 to 5 / 62 to 66;Snapping;19;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;2 to 7 / 87 to 92;Crackling;31;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;3 to 9 / 109 to 115;Sparking;34;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;4 to 11 / 137 to 145;Arcing;42;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;4 to 13 / 165 to 174;Shocking;51;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;5 to 16 / 200 to 211;Discharging;63;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Local Min Added Lightning Dmg / Local Max Added Lightning Dmg;6 to 19 / 237 to 250;Electrocuting;74;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;No;Yes
+Spell Dmg +%;10 to 19;Apprentice's;2;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +%;20 to 29;Adept's;11;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +%;30 to 39;Scholar's;23;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +%;40 to 49;Professor's;35;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +%;50 to 59;Occultist's;46;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +%;60 to 69;Incanter's;58;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +%;70 to 74;Glyphic;64;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +%;75 to 79;Runic;84;Prefix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;5 to 9 / 8 to 10;Caster's;2;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;10 to 14 / 11 to 13;Magician's;11;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;15 to 19 / 14 to 16;Wizard's;23;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;20 to 24 / 17 to 19;Warlock's;35;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;25 to 29 / 20 to 22;Mage's;46;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;30 to 34 / 23 to 25;Archmage's;58;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;35 to 39 / 26 to 28;Lich's;80;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Dmg +%;15 to 29;Apprentice's;2;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +%;30 to 44;Adept's;11;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +%;45 to 59;Scholar's;23;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +%;60 to 74;Professor's;35;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +%;75 to 89;Occultist's;46;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +%;90 to 104;Incanter's;58;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +%;105 to 110;Glyphic;79;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +%;111 to 115;Runic;84;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;8 to 14 / 8 to 10;Caster's;2;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;15 to 22 / 11 to 13;Magician's;11;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;23 to 29 / 14 to 16;Wizard's;23;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;30 to 37 / 17 to 19;Warlock's;35;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;38 to 44 / 20 to 22;Mage's;46;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;45 to 50 / 23 to 25;Archmage's;58;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Dmg +% / Base Max Mana;51 to 55 / 26 to 28;Lich's;80;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Projectile speed +%;10 to 17;of Darting;14;Suffix;No;No;No;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No
+Projectile speed +%;18 to 25;of Flight;27;Suffix;No;No;No;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No
+Projectile speed +%;26 to 33;of Propulsion;41;Suffix;No;No;No;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No
+Projectile speed +%;34 to 41;of the Zephyr;55;Suffix;No;No;No;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No
+Projectile speed +%;42 to 46;of the Gale;82;Suffix;No;No;No;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No
+Accuracy Rating;5 to 15;of Calm;1;Suffix;Yes;Yes;No;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Accuracy Rating;16 to 60;of Steadiness;12;Suffix;Yes;Yes;No;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Accuracy Rating;61 to 100;of Accuracy;20;Suffix;Yes;Yes;No;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Accuracy Rating;101 to 130;of Precision;26;Suffix;Yes;Yes;No;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Accuracy Rating;131 to 165;of the Sniper;33;Suffix;Yes;Yes;No;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Accuracy Rating;166 to 200;of the Marksman;41;Suffix;Yes;Yes;No;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Accuracy Rating;201 to 250;of the Deadeye;50;Suffix;Yes;Yes;No;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Accuracy Rating;251 to 320;of the Ranger;63;Suffix;Yes;Yes;No;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Accuracy Rating;321 to 400;of the Assassin;76;Suffix;Yes;Yes;No;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Local Accuracy Rating;5 to 15;of Calm;1;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Accuracy Rating;16 to 60;of Steadiness;12;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Accuracy Rating;61 to 100;of Accuracy;20;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Accuracy Rating;101 to 130;of Precision;26;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Accuracy Rating;131 to 165;of the Sniper;33;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Accuracy Rating;166 to 200;of the Marksman;41;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Accuracy Rating;201 to 250;of the Deadeye;50;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Accuracy Rating;251 to 320;of the Ranger;63;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Accuracy Rating;321 to 360;of the Assassin;80;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No
+Light Radius / +Accuracy Rating;5 / 10 to 20;of Shining;8;Suffix;Yes;No;No;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Light Radius / +Accuracy Rating;10 / 21 to 40;of Light;15;Suffix;Yes;No;No;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Light Radius / Accuracy Rating %;15 / 5 to 10;of Radiance;30;Suffix;Yes;No;No;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Attack Speed +%;5 to 7;of Skill;1;Suffix;Yes;No;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Attack Speed +%;8 to 10;of Ease;11;Suffix;No;No;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Attack Speed +%;11 to 13;of Mastery;22;Suffix;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Attack Speed +%;14 to 16;of Grandmastery;76;Suffix;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Local Attack Speed +%;5 to 7;of Skill;1;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Attack Speed +%;8 to 10;of Ease;11;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Attack Speed +%;11 to 13;of Mastery;22;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Attack Speed +%;14 to 16;of Renown;30;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Attack Speed +%;17 to 19;of Acclaim;37;Suffix;No;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+Local Attack Speed +%;20 to 22;of Fame;45;Suffix;No;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+Local Attack Speed +%;23 to 25;of Infamy;60;Suffix;No;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+Local Attack Speed +%;26 to 27;of Celebration;77;Suffix;No;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+Additional All Attributes;1 to 4;of the Clouds;1;Suffix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Additional All Attributes;5 to 8;of the Sky;11;Suffix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Additional All Attributes;9 to 12;of the Meteor;22;Suffix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Additional All Attributes;13 to 16;of the Comet;33;Suffix;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Additional All Attributes;17 to 20;of the Heavens;44;Suffix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Additional All Attributes;21 to 24;of the Galaxy;55;Suffix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Additional All Attributes;25 to 28;of the Universe;66;Suffix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Additional All Attributes;29 to 32;of the Infinite;77;Suffix;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Additional Dexterity;8 to 12;of the Mongoose;1;Suffix;Yes;Yes;No;Yes (dex);Yes;Yes (dex);Yes (dex);Yes (dex);Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+Additional Dexterity;13 to 17;of the Lynx;11;Suffix;Yes;Yes;No;Yes (dex);Yes;Yes (dex);Yes (dex);Yes (dex);Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+Additional Dexterity;18 to 22;of the Fox;22;Suffix;Yes;Yes;No;Yes (dex);Yes;Yes (dex);Yes (dex);Yes (dex);Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+Additional Dexterity;23 to 27;of the Falcon;33;Suffix;Yes;Yes;No;Yes (dex);Yes;Yes (dex);Yes (dex);Yes (dex);Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+Additional Dexterity;28 to 32;of the Panther;44;Suffix;Yes;Yes;No;Yes (dex);Yes;Yes (dex);Yes (dex);Yes (dex);Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+Additional Dexterity;33 to 37;of the Leopard;55;Suffix;Yes;Yes;No;Yes (dex);Yes;Yes (dex);Yes (dex);Yes (dex);Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+Additional Dexterity;38 to 42;of the Jaguar;66;Suffix;Yes;Yes;No;Yes (dex);Yes;Yes (dex);Yes (dex);Yes (dex);Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+Additional Dexterity;43 to 50;of the Phantasm;74;Suffix;Yes;Yes;No;Yes (dex);Yes;Yes (dex);Yes (dex);Yes (dex);Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+Additional Dexterity;51 to 55;of the Wind;82;Suffix;Yes;Yes;No;Yes (dex);Yes;Yes (dex);Yes (dex);Yes (dex);Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;No;No
+Additional Intelligence;8 to 12;of the Pupil;1;Suffix;Yes;Yes;No;Yes;Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Additional Intelligence;13 to 17;of the Student;11;Suffix;Yes;Yes;No;Yes;Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Additional Intelligence;18 to 22;of the Prodigy;22;Suffix;Yes;Yes;No;Yes;Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Additional Intelligence;23 to 27;of the Augur;33;Suffix;Yes;Yes;No;Yes;Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Additional Intelligence;28 to 32;of the Philosopher;44;Suffix;Yes;Yes;No;Yes;Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Additional Intelligence;33 to 37;of the Sage;55;Suffix;Yes;Yes;No;Yes;Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Additional Intelligence;38 to 42;of the Savant;66;Suffix;Yes;Yes;No;Yes;Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Additional Intelligence;43 to 50;of the Virtuoso;74;Suffix;Yes;Yes;No;Yes;Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Additional Intelligence;51 to 55;of the Genius;82;Suffix;Yes;Yes;No;Yes;Yes (int);Yes (int);Yes (int);Yes (int);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Additional Strength;8 to 12;of the Brute;1;Suffix;Yes;Yes;Yes;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Additional Strength;13 to 17;of the Wrestler;11;Suffix;Yes;Yes;Yes;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Additional Strength;18 to 22;of the Bear;22;Suffix;Yes;Yes;Yes;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Additional Strength;23 to 27;of the Lion;33;Suffix;Yes;Yes;Yes;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Additional Strength;28 to 32;of the Gorilla;44;Suffix;Yes;Yes;Yes;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Additional Strength;33 to 37;of the Goliath;55;Suffix;Yes;Yes;Yes;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Additional Strength;38 to 42;of the Leviathan;66;Suffix;Yes;Yes;Yes;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Additional Strength;43 to 50;of the Titan;74;Suffix;Yes;Yes;Yes;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Additional Strength;51 to 55;of the Gods;82;Suffix;Yes;Yes;Yes;Yes (str);Yes (str);Yes (str);Yes (str);Yes (str);No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Base Cast Speed +%;5 to 7;of Talent;2;Suffix;Yes;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Base Cast Speed +%;8 to 10;of Nimbleness;15;Suffix;No;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Base Cast Speed +%;11 to 13;of Expertise;30;Suffix;No;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Base Cast Speed +%;14 to 16;of Legerdemain;40;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Base Cast Speed +%;17 to 19;of Prestidigitation;55;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Base Cast Speed +%;20 to 22;of Sortilege;72;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Base Cast Speed +%;23 to 25;of Finesse;83;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Base Critical Strike Multiplier +%;8 to 12;of Ire;8;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Critical Strike Multiplier +%;13 to 19;of Anger;21;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Critical Strike Multiplier +%;20 to 24;of Rage;31;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Critical Strike Multiplier +%;25 to 29;of Fury;45;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Critical Strike Multiplier +%;30 to 34;of Ferocity;59;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Base Critical Strike Multiplier +%;35 to 38;of Destruction;74;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Weapon-only Critical Strike Multiplier +%;10 to 14;of Ire;8;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Weapon-only Critical Strike Multiplier +%;15 to 19;of Anger;21;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Weapon-only Critical Strike Multiplier +%;20 to 24;of Rage;30;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Weapon-only Critical Strike Multiplier +%;25 to 29;of Fury;44;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Weapon-only Critical Strike Multiplier +%;30 to 34;of Ferocity;59;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Weapon-only Critical Strike Multiplier +%;35 to 38;of Destruction;73;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Critical Strike Chance +%;10 to 14;of Needling;5;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Critical Strike Chance +%;15 to 19;of Stinging;20;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Critical Strike Chance +%;20 to 24;of Piercing;30;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Critical Strike Chance +%;25 to 29;of Rupturing;44;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Critical Strike Chance +%;30 to 34;of Penetrating;58;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Critical Strike Chance +%;35 to 38;of Incision;72;Suffix;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No
+Local Critical Strike Chance +%;10 to 14;of Needling;1;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Critical Strike Chance +%;15 to 19;of Stinging;20;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Critical Strike Chance +%;20 to 24;of Piercing;30;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Critical Strike Chance +%;25 to 29;of Puncturing;44;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Critical Strike Chance +%;30 to 34;of Penetrating;59;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Critical Strike Chance +%;35 to 38;of Incision;73;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Spell Critical Strike Chance +%;10 to 19;of Menace;11;Suffix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Spell Critical Strike Chance +%;20 to 39;of Havoc;21;Suffix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Spell Critical Strike Chance +%;40 to 59;of Disaster;28;Suffix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Spell Critical Strike Chance +%;60 to 79;of Calamity;41;Suffix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Spell Critical Strike Chance +%;80 to 99;of Ruin;59;Suffix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Spell Critical Strike Chance +%;100 to 109;of Unmaking;76;Suffix;No;No;No;No;No;No;No;Yes (int-only);No;Yes;Yes;No;Yes;Yes;No;No;No;No;No
+Cold Dmg +%;3 to 7;of Snow;12;Suffix;Yes;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Cold Dmg +%;8 to 12;of Sleet;24;Suffix;Yes;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Cold Dmg +%;13 to 17;of Ice;36;Suffix;No;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Cold Dmg +%;18 to 22;of Rime;50;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Cold Dmg +%;23 to 26;of Floe;64;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Cold Dmg +%;27 to 30;of Glaciation;76;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Fire Dmg +%;3 to 7;of Embers;8;Suffix;Yes;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Fire Dmg +%;8 to 12;of Coals;22;Suffix;Yes;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Fire Dmg +%;13 to 17;of Cinders;36;Suffix;No;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Fire Dmg +%;18 to 22;of Flames;50;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Fire Dmg +%;23 to 26;of Immolation;64;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Fire Dmg +%;27 to 30;of Ashes;76;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Lightning Dmg +%;3 to 7;of Sparks;10;Suffix;Yes;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Lightning Dmg +%;8 to 12;of Static;23;Suffix;Yes;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Lightning Dmg +%;13 to 17;of Electricity;36;Suffix;No;Yes;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Lightning Dmg +%;18 to 22;of Voltage;50;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Lightning Dmg +%;23 to 26;of Discharge;64;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Lightning Dmg +%;27 to 30;of Arcing;76;Suffix;No;No;No;No;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No
+Charges Gained +%;10 to 20;of Refilling;2;Suffix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Flask Charges Used +%;-20 to -10;of Sipping;3;Suffix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Flask Duration +%;10 to 20;of Savouring;7;Suffix;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Item Found Rarity +%;6 to 10;of Plunder;3;Suffix;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Item Found Rarity +%;11 to 14;of Raiding;30;Suffix;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Item Found Rarity +%;15 to 20;of Archaeology;53;Suffix;Yes;Yes;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Base Item Found Rarity +%;21 to 26;of Excavation;75;Suffix;Yes;Yes;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Life Gain Per Target;2;of Rejuvenation;8;Suffix;Yes;Yes;No;No;Yes;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Life Gain Per Target;3;of Restoration;20;Suffix;No;Yes;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Life Gain Per Target;4;of Regrowth;30;Suffix;No;Yes;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Life Gain Per Target;5;of Nourishment;40;Suffix;No;No;No;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Life Gained On Enemy Death;3 to 6;of Success;1;Suffix;Yes;Yes;No;No;Yes;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Life Gained On Enemy Death;7 to 10;of Victory;23;Suffix;Yes;Yes;No;No;Yes;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Life Gained On Enemy Death;11 to 14;of Triumph;40;Suffix;Yes;Yes;No;No;Yes;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Life Regeneration Rate Per Second;1 to 2;of the Newt;1;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Life Regeneration Rate Per Second;2.02 to 3;of the Lizard;18;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Life Regeneration Rate Per Second;3.02 to 4;of the Starfish;30;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Life Regeneration Rate Per Second;4.02 to 5;of the Hydra;44;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Life Regeneration Rate Per Second;5.02 to 6;of the Troll;59;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Life Regeneration Rate Per Second;6.02 to 7;of the Phoenix;78;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Mana Gained On Enemy Death;1;of Absorption;1;Suffix;Yes;Yes;No;No;Yes;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Mana Gained On Enemy Death;2 to 3;of Osmosis;24;Suffix;Yes;Yes;No;No;Yes;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Mana Gained On Enemy Death;4 to 6;of Consumption;40;Suffix;Yes;Yes;No;No;Yes;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Mana Regeneration Rate +%;10 to 19;of Excitement;2;Suffix;Yes;Yes;No;No;No;No;No;Yes (int-only);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Mana Regeneration Rate +%;20 to 29;of Joy;18;Suffix;Yes;Yes;No;No;No;No;No;Yes (int-only);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Mana Regeneration Rate +%;30 to 39;of Elation;29;Suffix;Yes;Yes;No;No;No;No;No;Yes (int-only);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Mana Regeneration Rate +%;40 to 49;of Bliss;42;Suffix;Yes;Yes;No;No;No;No;No;Yes (int-only);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Mana Regeneration Rate +%;50 to 59;of Euphoria;55;Suffix;Yes;Yes;No;No;No;No;No;Yes (int-only);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Mana Regeneration Rate +%;60 to 69;of Nirvana;79;Suffix;Yes;Yes;No;No;No;No;No;Yes (int-only);No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No
+Base Cold Dmg Resistance %;6 to 11;of the Inuit;1;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Cold Dmg Resistance %;12 to 17;of the Seal;14;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Cold Dmg Resistance %;18 to 23;of the Penguin;26;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Cold Dmg Resistance %;24 to 29;of the Yeti;38;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Cold Dmg Resistance %;30 to 35;of the Walrus;50;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Cold Dmg Resistance %;36 to 41;of the Polar Bear;60;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Cold Dmg Resistance %;42 to 45;of the Ice;72;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Cold Dmg Resistance %;46 to 48;of Haast;84;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Fire Dmg Resistance %;6 to 11;of the Whelpling;1;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Fire Dmg Resistance %;12 to 17;of the Salamander;12;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Fire Dmg Resistance %;18 to 23;of the Drake;24;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Fire Dmg Resistance %;24 to 29;of the Kiln;36;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Fire Dmg Resistance %;30 to 35;of the Furnace;48;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Fire Dmg Resistance %;36 to 41;of the Volcano;60;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Fire Dmg Resistance %;42 to 45;of the Magma;72;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Fire Dmg Resistance %;46 to 48;of Tzteosh;84;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Lightning Dmg Resistance %;6 to 11;of the Cloud;1;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Lightning Dmg Resistance %;12 to 17;of the Squall;13;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Lightning Dmg Resistance %;18 to 23;of the Storm;25;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Lightning Dmg Resistance %;24 to 29;of the Thunderhead;37;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Lightning Dmg Resistance %;30 to 35;of the Tempest;49;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Lightning Dmg Resistance %;36 to 41;of the Maelstrom;60;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Lightning Dmg Resistance %;42 to 45;of the Lightning;72;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Lightning Dmg Resistance %;46 to 48;of Ephij;84;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Chaos Dmg Resistance %;5 to 10;of the Lost;16;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Chaos Dmg Resistance %;11 to 15;of Banishment;30;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Chaos Dmg Resistance %;16 to 20;of Eviction;44;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Chaos Dmg Resistance %;21 to 25;of Expulsion;56;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Chaos Dmg Resistance %;26 to 30;of Exile;65;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Chaos Dmg Resistance %;31 to 35;of Bameth;81;Suffix;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Resist All Elements %;3 to 5;of the Crystal;12;Suffix;Yes;Yes;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Resist All Elements %;6 to 8;of the Prism;24;Suffix;Yes;Yes;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Resist All Elements %;9 to 11;of the Kaleidoscope;36;Suffix;Yes;Yes;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Resist All Elements %;12 to 14;of Variegation;48;Suffix;Yes;Yes;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Resist All Elements %;15 to 16;of the Rainbow;60;Suffix;Yes;Yes;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Local Attribute Requirements -%;-18;of the Worthy;36;Suffix;No;No;No;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Attribute Requirements -%;-32;of the Apt;60;Suffix;No;No;No;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Local Additional Block Chance %;1 to 3;of Intercepting;10;Suffix;No;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Local Additional Block Chance %;4 to 6;of Walling;58;Suffix;No;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Stun Duration +%;11 to 15;of Impact;5;Suffix;No;No;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Stun Duration +%;16 to 20;of Dazing;18;Suffix;No;No;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Stun Duration +%;21 to 25;of Stunning;30;Suffix;No;No;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Stun Duration +%;26 to 30;of Slamming;44;Suffix;No;No;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Stun Duration +%;31 to 35;of Staggering;58;Suffix;No;No;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Base Stun Threshold Reduction +%;5 to 7;of the Pugilist;5;Suffix;No;No;Yes;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Base Stun Threshold Reduction +%;8 to 9;of the Brawler;20;Suffix;No;No;Yes;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Base Stun Threshold Reduction +%;10 to 11;of the Boxer;30;Suffix;No;No;Yes;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Base Stun Threshold Reduction +%;12 to 13;of the Combatant;44;Suffix;No;No;Yes;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Base Stun Threshold Reduction +%;14 to 15;of the Gladiator;58;Suffix;No;No;Yes;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Base Stun Recovery +%;11 to 13;of Thick Skin;1;Suffix;No;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Stun Recovery +%;14 to 16;of Stone Skin;17;Suffix;No;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Stun Recovery +%;17 to 19;of Iron Skin;28;Suffix;No;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Stun Recovery +%;20 to 22;of Steel Skin;42;Suffix;No;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Stun Recovery +%;23 to 25;of Adamantite Skin;56;Suffix;No;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Base Stun Recovery +%;26 to 28;of Corundum Skin;79;Suffix;No;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;1 / 2 to 3;Frosted;1;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;5 to 7 / 10 to 12;Chilled;11;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;8 to 10 / 16 to 18;Icy;18;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;7 to 9 / 13 to 15;Icy;20;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;11 to 15 / 22 to 25;Frigid;26;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;10 to 13 / 19 to 22;Frigid;30;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;14 to 18 / 27 to 32;Freezing;33;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;17 to 23 / 34 to 40;Frozen;42;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;21 to 28 / 41 to 48;Glaciated;51;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;25 to 33 / 50 to 58;Polar;62;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;30 to 40 / 60 to 69;Entombing;74;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;1 to 2 / 3 to 4;Heated;1;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;6 to 8 / 12 to 14;Smouldering;11;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;10 to 13 / 19 to 22;Smoking;18;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;8 to 11 / 16 to 18;Smoking;20;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;13 to 18 / 27 to 31;Burning;26;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;12 to 16 / 23 to 27;Burning;30;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;17 to 22 / 33 to 39;Flaming;33;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;21 to 28 / 42 to 49;Scorching;42;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;25 to 34 / 51 to 59;Incinerating;51;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;31 to 41 / 61 to 71;Blasting;62;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;36 to 49 / 73 to 85;Cremating;74;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 / 4 to 5;Humming;1;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 to 2 / 21 to 22;Buzzing;11;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 to 3 / 33 to 35;Snapping;18;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 to 3 / 27 to 29;Snapping;20;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 to 4 / 46 to 49;Crackling;26;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 to 4 / 39 to 42;Crackling;30;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;2 to 5 / 58 to 61;Sparking;33;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;2 to 6 / 73 to 77;Arcing;42;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;2 to 7 / 88 to 93;Shocking;51;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;3 to 9 / 106 to 112;Discharging;62;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;3 to 10 / 126 to 133;Electrocuting;74;Prefix;No;No;No;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;1 to 2 / 3 to 4;Frosted;1;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;8 to 10 / 15 to 18;Chilled;11;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;12 to 16 / 23 to 27;Icy;18;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;10 to 13 / 19 to 23;Icy;20;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;16 to 22 / 33 to 38;Frigid;26;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;14 to 19 / 28 to 33;Frigid;30;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;21 to 27 / 41 to 48;Freezing;33;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;26 to 34 / 52 to 60;Frozen;42;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;31 to 41 / 62 to 73;Glaciated;51;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;38 to 50 / 75 to 88;Polar;62;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Cold Damage / Spell Maximum Added Cold Damage;45 to 60 / 89 to 104;Entombing;74;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;1 to 2 / 4 to 5;Heated;1;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;8 to 11 / 17 to 19;Smouldering;11;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;13 to 17 / 26 to 30;Smoking;18;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;11 to 14 / 22 to 25;Smoking;20;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;18 to 24 / 36 to 42;Burning;26;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;16 to 21 / 31 to 36;Burning;30;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;23 to 30 / 45 to 53;Flaming;33;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;28 to 38 / 57 to 66;Scorching;42;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;34 to 46 / 68 to 80;Incinerating;51;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;41 to 55 / 83 to 96;Blasting;62;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Fire Damage / Spell Maximum Added Fire Damage;49 to 65 / 98 to 115;Cremating;74;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 / 6 to 7;Humming;1;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 to 3 / 32 to 34;Buzzing;11;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 to 4 / 49 to 52;Snapping;18;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 to 3 / 41 to 43;Snapping;20;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;2 to 6 / 69 to 73;Crackling;26;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;1 to 5 / 59 to 63;Crackling;30;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;2 to 7 / 87 to 92;Sparking;33;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;3 to 9 / 109 to 115;Arcing;42;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;4 to 11 / 132 to 139;Shocking;51;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;4 to 13 / 159 to 168;Discharging;62;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Spell Minimum Added Lightning Damage / Spell Maximum Added Lightning Damage;5 to 15 / 189 to 200;Electrocuting;74;Prefix;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +%;11 to 28;Shadowy;3;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +%;29 to 46;Ethereal;19;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +%;47 to 64;Unworldly;30;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +%;65 to 82;Ephemeral;44;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +%;83 to 100;Evanescent;60;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +%;101 to 120;Unreal;72;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +% / Base Stun Recovery +%;6 to 14 / 6 to 7;Mosquito's;2;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +% / Base Stun Recovery +%;15 to 23 / 8 to 9;Moth's;19;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +% / Base Stun Recovery +%;24 to 32 / 10 to 11;Butterfly's;30;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +% / Base Stun Recovery +%;33 to 41 / 12 to 13;Wasp's;44;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +% / Base Stun Recovery +%;42 to 50 / 14 to 15;Dragonfly's;60;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No
+Local Armour And Evasion And Energy Shield +% / Base Stun Recovery +%;51 to 56 / 16 to 17;Hummingbird's;78;Prefix;No;No;No;No;No;No;Triple-Only;No;No;No;No;No;No;No;No;No;No;No;No

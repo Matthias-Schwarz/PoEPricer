@@ -1,0 +1,473 @@
+# First Define Helper Functions
+Function DPS APS*((MinPhysicalDamage+MaxPhysicalDamage)/2+(MinElementalDamage + MaxElementalDamage)/2)
+Function PDPS APS*(MinPhysicalDamage + MaxPhysicalDamage)/2
+Function EDPS APS*(MinElementalDamage + MaxElementalDamage)/2
+Function TotalLife (AddedAllAttributes+AddedStrength+AddedStrengthIntelligence+AddedStrengthDexterity)/2 + AddedLife
+Function TotalAttributes AddedAllAttributes*3+AddedStrength+AddedDexterity+AddedIntelligence+AddedStrengthDexterity*2+AddedStrengthIntelligence*2+AddedDexterityIntelligence*2
+Function AddedElementalAttackDamage (AddedMinColdAttackDamage + AddedMaxColdAttackDamage + AddedMinFireAttackDamage + AddedMaxFireAttackDamage + AddedMinLightningAttackDamage + AddedMaxLightningAttackDamage)/2
+Function AddedPhysicalAttackDamage (AddedMinPhysicalAttackDamage + AddedMaxPhysicalAttackDamage)/2
+Function AddedSpellDamage (AddedMinColdSpellDamage + AddedMaxColdSpellDamage + AddedMinFireSpellDamage + AddedMaxFireSpellDamage + AddedMinLightningSpellDamage + AddedMaxLightningSpellDamage + AddedMinChaosSpellDamage + AddedMaxChaosSpellDamage)/2
+#Function TotalColdResistance ColdResistance+FireColdResistances+ColdLightningResistances+ElementalResistances
+#Function TotalFireResistance FireResistance+FireColdResistances+FireLightningResistances+ElementalResistances
+#Function TotalLightningResistance LightningResistance+FireLightningResistances+ColdLightningResistances+ElementalResistances
+Function TotalElementalResistances ColdResistance+FireResistance+LightningResistance+3*ElementalResistances+2*FireLightningResistances+2*FireColdResistances+2*ColdLightningResistances
+Function TotalResistances ColdResistance+FireResistance+LightningResistance+3*ElementalResistances+2*FireLightningResistances+2*FireColdResistances+2*ColdLightningResistances+ChaosResistance
+Function IsThreeToBow AddedBowGemLevel+AddedGemLevel>=3
+Function TotalAddedSpellGemLevel AddedGemLevel + ((AddedColdGemLevel GetMaximum AddedFireGemLevel) GetMaximum AddedLightningGemLevel)
+Function IsJewellery Class == "Amulet" || Class == "Belt" || Class == "Ring"
+Function IsArmour Class == "Body Armour" || Class == "Boots" || Class == "Gloves" || Class == "Helmet" || Class == "Shield" || Class == "Quiver"
+Function IsOneHandedWeapon Class == "Claw" || Class == "Dagger" || Class == "One Handed Axe" || Class == "One Handed Mace" || Class == "One Handed Sword" || Class == "Sceptre" || Class == "Thrusting One Handed Sword" || Class == "Wand"
+Function IsTwoHandedWeapon Class == "Bow" || Class == "Staff" || Class == "Two Handed Axe" || Class == "Two Handed Mace" || Class == "Two Handed Sword"
+Function IsWeapon IsOneHandedWeapon || IsTwoHandedWeapon
+Function HasFreePrefix MaxPrefixes < 3
+Function CanCraftLife HasFreePrefix && AddedLife == 0
+Function MaxAffixes MaxSuffixes + MaxPrefixes
+
+#####################
+##	    Wands      ##
+#####################
+
+#Spell Wands
+Condition Class == "Wand" && IncreasedSpellDamage >= 75
+Warn High Spelldamage on that wand
+
+
+#Phys Wands
+# None for leveling (does anyone actually level with a phys wander?)
+Condition Class == "Wand" && $PDPS$ > 190 && CritChance >= 9
+Warn Nice Phys Wand
+
+#CoC Wands
+
+Condition Class == "Wand" && APS > 1.5 && CritChance >= 10 && $AddedSpellDamage$ >= 40
+Warn Nice CoC Wand
+
+#################
+##One-Handers####
+#################
+
+Condition $PDPS$ >= 200  && $IsOneHandedWeapon$ && CritChance > 8.7
+Warn Crit and PDPS on One-Hander
+
+Condition LvlReq <= 25 && $PDPS$ >= 110  && $IsOneHandedWeapon$
+Warn Nice PDPS on that One-Hander
+
+Condition LvlReq <= 40 && $PDPS$ >= 145  && $IsOneHandedWeapon$
+Warn Nice PDPS on that One-Hander
+
+Condition LvlReq <= 50 && $PDPS$ >= 200  && $IsOneHandedWeapon$
+Warn Nice PDPS on that One-Hander
+
+Condition $PDPS$ >= 270  && $IsOneHandedWeapon$
+Warn Nice PDPS on that One-Hander
+
+Condition $LvlReq$ > 25 && $DPS$ > 7.5*$LvlReq$ - 100 && $IsOneHandedWeapon$
+Warn Nice DPS on that One-Hander
+
+##################
+##	   Bows     ##
+##################
+
+Condition Class == "Bow" && $PDPS$ + 15*CritChance >= 325
+Warn Extremely good Bow
+
+Condition Class == "Bow" && $PDPS$ + 15*CritChance - 2.8*LvlReq >= 129
+Warn Cool leveling Bow
+
+Condition Class == "Bow" && $IsThreeToBow$
+Warn Poison Bow
+
+
+#################
+##Two-Handers####
+#################
+
+Condition $PDPS$ >= 320  && $IsTwoHandedWeapon$ && CritChance > 8
+Warn Crit and PDPS on Two-Hander
+
+Condition LvlReq <= 25 && $PDPS$ >= 190  && $IsTwoHandedWeapon$
+Warn Nice PDPS on that Two-Hander
+
+Condition LvlReq <= 40 && $PDPS$ >= 200  && $IsTwoHandedWeapon$
+Warn Nice PDPS on that Two-Hander
+
+Condition LvlReq <= 50 && $PDPS$ >= 300  && $IsTwoHandedWeapon$
+Warn Nice PDPS on that Two-Hander
+
+Condition $PDPS$ >= 420  && $IsTwoHandedWeapon$
+Warn Nice PDPS on that Two-Hander
+
+
+
+###############
+##	Boots    ##
+###############
+
+
+Condition Class == "Boots"
+	Condition LvlReq <= 20 && TotalLife >= 20 && TotalResistances$ >= 20 && IncreasedMovementSpeed >= 10
+	Warn Nice Lowlevel Boots
+	
+	Condition LvlReq <= 28 && 1.2*TotalLife + TotalResistances$ >= 90 && ((HasFreePrefix && IncreasedMovementSpeed == 0) || IncreasedMovementSpeed >= 20)
+	Warn Lowlevel Pvp Boots
+	
+	Condition LvlReq >= 20 && LvlReq <= 50 && $TotalLife$ + $TotalResistances$ - LvlReq >= 70 && IncreasedMovementSpeed >= 15
+	Warn Nice Leveling Boots
+	
+	Condition LvlReq <= 55 && MaxLinks == 4 && TotalLife >= 1.3*LvlReq && TotalLife >= 30
+	Warn Nice Leveling Boots
+	
+	Condition TotalLife >= 85 && TotalResistances$ >= 60 && 1.5*TotalLife + TotalResistances$ >= 205 && ((HasFreePrefix && IncreasedMovementSpeed == 0)|| IncreasedMovementSpeed >= 20) && (Evasion + Armour + 4*EnergyShield >= 240 )
+	Warn Cool Boots
+	
+	Condition EnergyShield >= 200
+	Warn ES Boots
+	
+	Condition EnergyShield >= 170 && ((HasFreePrefix && IncreasedMovementSpeed == 0) || IncreasedMovementSpeed >= 20) && TotalResistances >= 35
+	Warn ES Boots
+	
+	Condition TotalLife >= 85 && TotalResistances$ >= 60 && 1.5*TotalLife + TotalResistances$ >= 205 && ((HasFreePrefix && IncreasedMovementSpeed == 0) || IncreasedMovementSpeed >= 20)
+	Warn Interesting Boots
+	
+
+###############
+##	Helmet   ##
+###############
+
+Condition Class == "Helmet"
+	Condition LvlReq <= 20 && TotalLife >= 30 && TotalResistances$ >= 20
+	Warn Nice Lowlevel Helmet
+	
+	Condition LvlReq <= 55 && MaxLinks == 4 && TotalLife >= 1.3*LvlReq && TotalLife >= 30
+	Warn Nice Leveling Helmet
+
+	Condition LvlReq >= 20 && LvlReq <= 50 && $TotalLife$ + $TotalResistances$ - LvlReq >= 85
+	Warn Nice Leveling Helmet
+
+	Condition TotalLife >= 85 && TotalResistances$ >= 60 && 1.5*TotalLife + TotalResistances$ >= 205 &&  (Evasion + Armour + 4*EnergyShield >= 400 )
+	Warn Cool Helmet
+
+	Condition TotalLife >= 95 && TotalResistances$ >= 80
+	Warn Cool Helmet
+	
+	Condition TotalResistances >= 100 && CanCraftLife
+	Warn Cool Helmet (Craft Life on it)!
+	
+	Condition EnergyShield >= 290
+	Warn ES Helmet
+	
+	Condition EnergyShield >= 210 && TotalResistances >= 40
+	Warn ES Helmet
+	
+	Condition IncreasedItemRarity >= 40 && TotalLife >= 70
+	Warn Very good MF Helmet
+	
+	Condition IncreasedItemRarity >= 43
+	Warn MF Helmet
+
+
+###############
+##	Gloves   ##
+###############
+
+Condition Class == "Gloves" && $AddedPhysicalAttackDamage$ * 7 + $AddedElementalAttackDamage$ * 3 + $TotalLife$ + $TotalResistances$ + 2*IncreasedItemRarity + 14*(PhysicalAttackLifeLeech+PhysicalAttackManaLeech) + 4*IncreasedAttackSpeed + 0.1*AddedAccuracy - LvlReq >= 85
+Warn Nice Gloves
+
+Condition Class == "Gloves" && EnergyShield >= 2*LvlReq + 80
+Warn ES Gloves
+
+##################
+##    Staves    ##
+##################
+
+# +1 to all gems
+# +2 to specific gem
+# +90 to spelldmg
+# 115% inc spelldmg, 25 castspeed, 109 spellcrit, 38 mult, 30 inc eldmg
+# Note: Eledmg sucks, need to weight it
+Function StaffPerfection (TotalAddedSpellGemLevel*2/3 + AddedSpellDamage/90 + IncreasedSpellDamage/115 + IncreasedCastSpeed/25 + IncreasedSpellCritChance/109 + IncreasedGlobalCritMultiplier/38 + ((IncreasedColdDamage GetMaximum IncreasedFireDamage) GetMaximum IncreasedLightningDamage)/60)/MaxAffixes
+
+Condition Class == "Staff"
+	Condition MaxAffixes >= 3
+		Condition StaffPerfection >= 9/10
+		Warn 90+% Perfect Staff considering Affix-count
+	
+		Condition StaffPerfection >= 8/10
+		Warn 80+% Perfect Staff considering Affix-count
+	
+		Condition StaffPerfection >= 7/10
+		Warn 70+% Perfect Staff considering Affix-count
+		
+		Condition StaffPerfection >= 6/10
+		Warn 60+% Perfect Staff considering Affix-count
+		
+		Condition StaffPerfection >= 5/10
+		Warn 50+% Perfect Staff considering Affix-count
+
+
+
+###############
+##	Shield   ##
+###############
+
+
+#+400 armour, evasion, +135es
+#132%increased all
+# -> Ignore stupid dual defence shields, go for single ones
+# base: 84 es, 335ev, 406 armour
+#Best Results: (508es or 630 no life), 1705ev, 1870 armour
+#109 hp, 48 res, 35 chaos, 6%block, 109 spell crit, 69 manareg, 79 spell dmg
+Function ShieldPerfection (((2*EnergyShield/508 + TotalLife/109) GetMaximum (3*EnergyShield/630)) + 2*Armour/1870 + 2*Evasion/1705 + TotalElementalResistances/48 + ChaosResistance/35 + AddedBlockChance/6 + IncreasedSpellCritChance/109 + IncreasedManaRegeneration/69 + IncreasedSpellDamage/79)/MaxAffixes
+
+Condition Class == "Shield"
+	Condition MaxAffixes >= 3
+		Condition ShieldPerfection >= 9/10
+		Warn 90+% Perfect Shield considering Affix-count
+	
+		Condition ShieldPerfection >= 8/10
+		Warn 80+% Perfect Shield considering Affix-count
+	
+		Condition ShieldPerfection >= 7/10
+		Warn 70+% Perfect Shield considering Affix-count
+		
+		Condition ShieldPerfection >= 6/10
+		Warn 60+% Perfect Shield considering Affix-count
+		
+		Condition ShieldPerfection >= 5/10
+		Warn 50+% Perfect Shield considering Affix-count
+
+	Condition ShieldPerfection * MaxAffixes >= 2.8
+	Warn Interesting Shield
+
+	Condition $TotalLife$ + TotalResistances + IncreasedSpellDamage - LvlReq >= 70 && LvlReq <= 55
+	Warn Nice Life and Resistances for its level.
+	
+	Condition TotalLife + TotalResistances - LvlReq >= 55 && LvlReq <= 55 && MaxLinks >= 3
+	Warn Nice Life and Resistances for its level and socket-linkage.
+
+
+###############
+##Body Armour##
+###############
+
+#bases:
+#553 armour, 609 eva, (525 with 3%ms), 175 ES
+#271 a, 340ev
+#286a, 98es
+#304ev, 95es
+# -> Ignore the stupid mixed bases and calculate for the single armours
+#132% armour, +400 armour, 132% eva, +400 eva, +145 es, 132% es (and 56 again)
+#119 hp
+#Best Results: 2210 armour, 2340 ev , 742 es+hp or 921es alone
+Function BodyPerfection (((2*EnergyShield/742 + TotalLife/119) GetMaximum (3*EnergyShield/921)) + 2*Armour/2210 + 2*Evasion/2340 + 0.055*IncreasedMovementSpeed + TotalElementalResistances/48 + ChaosResistance/35)/MaxAffixes
+
+Condition Class == "Body Armour"
+	Condition MaxAffixes >= 3
+		Condition BodyPerfection >= 9/10
+		Warn 90+% Perfect Body Armour considering Affix-count
+	
+		Condition BodyPerfection >= 8/10
+		Warn 80+% Perfect Body Armour considering Affix-count
+	
+		Condition BodyPerfection >= 7/10
+		Warn 70+% Perfect Body Armour considering Affix-count
+		
+		Condition BodyPerfection >= 6/10
+		Warn 60+% Perfect Body Armour considering Affix-count
+		
+		Condition BodyPerfection >= 5/10
+		Warn 50+% Perfect Body Armour considering Affix-count
+		
+	Condition (BodyPerfection * MaxAffixes >= 2.0 && CanCraftLife) || BodyPerfection * MaxAffixes >= 2.5 
+	Warn Interesting Body Armour
+
+	Condition TotalLife + TotalResistances - LvlReq >= 85 && LvlReq <= 55
+	Warn Nice Life and Resistances for its level.
+	
+	Condition TotalLife + TotalResistances - LvlReq >= 55 && LvlReq <= 55 && MaxLinks >= 4
+	Warn Nice Life and Resistances for its level and socket-linkage.
+
+###############
+##   Belt    ##
+###############
+
+#Affixes
+#460 Armour, 51 ES, 99hp, 42 WED, 55 str, 48 res, 20 flask, 15 stun threshold, flask dur
+Function BeltPerfection (AddedArmour/460 + AddedEnergyShield/51 + AddedLife/99 + TotalAttributes/55+ TotalElementalResistances$/48 + ChaosResistance/35 + ReducedFlaskChargesUsed/20 + IncreasedFlaskDuration/20)/MaxAffixes
+
+Condition Class == "Belt"
+
+	Condition MaxAffixes >= 3
+		Condition BeltPerfection >= 9/10
+		Warn 90+% Perfect Belt considering Affix-count
+	
+		Condition BeltPerfection >= 8/10
+		Warn 80+% Perfect Belt considering Affix-count
+	
+		Condition BeltPerfection >= 7/10
+		Warn 70+% Perfect Belt considering Affix-count
+		
+		Condition BeltPerfection >= 6/10
+		Warn 60+% Perfect Belt considering Affix-count
+		
+		Condition BeltPerfection >= 5/10
+		Warn 50+% Perfect Belt considering Affix-count
+		
+	Condition BeltPerfection*MaxAffixes >= 2.5
+	Warn Interesting Belt
+	
+	Condition TotalLife >= 85 && TotalResistances >= 60
+	Warn Interesting Belt
+		
+
+	#Leveling Belt
+	Condition 1.3*TotalLife + TotalResistances - LvlReq >= 110 && LvlReq <= 55
+	Warn Leveling Belt
+
+
+###############
+##   Ring    ##
+###############
+
+#Casting Affixes
+#47 ES, 79 hp, 73 mana, 28 rarity, 96 att, 7 cspeed, 12incele, 48 totalres, 35 cres
+
+#Attacking Affixes
+#12 PDMG, 35 Eledmg, 42 WED, 47 ES, 79 hp, 1.2 llech, 0.4 mleech, 400 accuracy, 96 att, 7as, 48 totalres, 35 cres
+
+Function CasterRingPerfection (AddedEnergyShield/47 + AddedLife/79+AddedMana/73+IncreasedItemRarity/28+TotalAttributes/96+IncreasedCastSpeed/7 + ((IncreasedColdDamage GetMaximum IncreasedFireDamage) GetMaximum IncreasedLightningDamage)/12 + TotalElementalResistances/48 + ChaosResistance/35)/MaxAffixes
+Function AttackRingPerfection (AddedPhysicalAttackDamage/12 + AddedElementalAttackDamage/35 + IncreasedWeaponElementalDamage/42 + AddedEnergyShield/47 + AddedLife/79 + PhysicalAttackLifeLeech/1.2 + PhysicalAttackManaLeech/0.4 + AddedAccuracy/400 + TotalAttributes/96+ IncreasedAttackSpeed/7 + TotalElementalResistances/48 + ChaosResistance/35)/MaxAffixes
+
+Condition Class == "Ring"
+	Condition (IncreasedItemRarity >= 40 && (CanCraftLife || TotalLife + TotalResistances >= 50)) || IncreasedItemRarity >= 45
+	Warn MF Ring
+
+	Condition MaxAffixes >= 3
+		Condition CasterRingPerfection >= 9/10
+		Warn 90+% Perfect Casting Ring considering Affix-count
+		
+		Condition AttackRingPerfection >= 9/10
+		Warn 90+% Perfect Attack Ring considering Affix-count
+	
+	
+		Condition CasterRingPerfection >= 8/10
+		Warn 80+% Perfect Casting Ring considering Affix-count
+		
+		Condition AttackRingPerfection >= 8/10
+		Warn 80+% Perfect Attack Ring considering Affix-count
+	
+		Condition CasterRingPerfection >= 7/10
+		Warn 70+% Perfect Casting Ring considering Affix-count
+		
+		Condition AttackRingPerfection >= 7/10
+		Warn 70+% Perfect Attack Ring considering Affix-count
+		
+		Condition CasterRingPerfection >= 6/10
+		Warn 60+% Perfect Casting Ring considering Affix-count
+		
+		Condition AttackRingPerfection >= 6/10
+		Warn 60+% Perfect Attack Ring considering Affix-count
+		
+		Condition CasterRingPerfection >= 5/10
+		Warn 50+% Perfect Casting Ring considering Affix-count
+		
+		Condition AttackRingPerfection >= 5/10
+		Warn 50+% Perfect Attack Ring considering Affix-count
+	
+	Condition TotalLife >= 70 && TotalResistances >= 60
+		Condition IncreasedSpellDamage >= 18
+		Warn Interesting Ring
+		
+		Condition IncreasedCastSpeed >= 8
+		Warn Interesting Ring
+		
+		Condition IncreasedGlobalCritChance >= 30
+		Warn Interesting Ring
+		
+		Condition TotalLife + TotalResistances >= 155
+		Warn Interesting Ring
+	
+	Condition CasterRingPerfection * MaxAffixes >= 2.8
+	Warn Interesting Ring
+	
+	Condition AttackRingPerfection * MaxAffixes >= 2.8
+	Warn Interesting Ring
+
+	#Leveling Ring
+	Condition 1.3*TotalLife + TotalResistances + AddedPhysicalAttackDamage*3 - LvlReq >= 115 && LvlReq <= 55
+	Warn Leveling Ring
+
+###############
+##  Amulet   ##
+###############
+
+#Casting Affixes
+#+51 ES, 89 HP, 26 SpellDmg, 22%ES, 32 All Atts, 13 Castspeed, 38 Crit, 34 mult, 17% eledmg (firecoldlightning), 48 res, 69 manareg
+
+#Attacking Affixes
+#35 Ele Dmg, 20 PDmg, +51 ES, 89HP, 400 Accuracy, 22%ES, 1.2Lifeleech, 0.8 Manaleech, 42 WED, 32 All Atts, 38 crit, 34 mult, 48 res
+
+Function CasterAmuletPerfection (AddedEnergyShield/51 + AddedLife/89 + IncreasedSpellDamage/26 + IncreasedEnergyShield/22 + TotalAttributes/96 + IncreasedCastSpeed/13 + IncreasedGlobalCritChance/38 + IncreasedGlobalCritMultiplier/34 + ((IncreasedColdDamage GetMaximum IncreasedFireDamage) GetMaximum IncreasedLightningDamage)/17 + TotalElementalResistances/48 + ChaosResistance/35 + IncreasedManaRegeneration/69)/MaxAffixes
+Function AttackAmuletPerfection (AddedElementalAttackDamage/35 + AddedPhysicalAttackDamage/20 + AddedEnergyShield/51 + IncreasedEnergyShield/22 + AddedLife/89 + AddedAccuracy/400 + PhysicalAttackLifeLeech/1.2 + PhysicalAttackManaLeech/0.8 + IncreasedWeaponElementalDamage/42 + TotalAttributes/96 + IncreasedGlobalCritChance/38 + IncreasedGlobalCritMultiplier/34 + TotalElementalResistances/48 + ChaosResistance/35)/MaxAffixes
+
+Condition Class == "Amulet"
+	Condition (IncreasedItemRarity >= 40 && (CanCraftLife || TotalLife + TotalResistances >= 50)) || IncreasedItemRarity >= 45
+	Warn MF Amulet
+
+	Condition MaxAffixes >= 3
+	
+		Condition CasterAmuletPerfection >= 9/10
+		Warn 90+% Perfect Casting Amulet considering Affix-count
+		
+		Condition AttackAmuletPerfection >= 9/10
+		Warn 90+% Perfect Attack Amulet considering Affix-count
+	
+	
+		Condition CasterAmuletPerfection >= 8/10
+		Warn 80+% Perfect Casting Amulet considering Affix-count
+		
+		Condition AttackAmuletPerfection >= 8/10
+		Warn 80+% Perfect Attack Amulet considering Affix-count
+		
+		Condition CasterAmuletPerfection >= 7/10
+		Warn 70+% Perfect Casting Amulet considering Affix-count
+		
+		Condition AttackAmuletPerfection >= 7/10
+		Warn 70+% Perfect Attack Amulet considering Affix-count
+		
+		Condition CasterAmuletPerfection >= 6/10
+		Warn 60+% Perfect Casting Amulet considering Affix-count
+		
+		Condition AttackAmuletPerfection >= 6/10
+		Warn 60+% Perfect Attack Amulet considering Affix-count
+		
+		Condition CasterAmuletPerfection >= 5/10
+		Warn 50+% Perfect Casting Amulet considering Affix-count
+		
+		Condition AttackAmuletPerfection >= 5/10
+		Warn 50+% Perfect Attack Amulet considering Affix-count
+	
+	Condition TotalLife >= 75 && TotalResistances >= 60
+		Condition IncreasedSpellDamage >= 18
+		Warn Interesting Amulet
+		
+		Condition IncreasedCastSpeed >= 8
+		Warn Interesting Amulet
+		
+		Condition IncreasedGlobalCritChance >= 30
+		Warn Interesting Amulet
+		
+		Condition TotalLife + TotalResistances >= 155
+		Warn Interesting Amulet
+		
+	Condition CasterAmuletPerfection * MaxAffixes >= 2.8
+	Warn Interesting Amulet
+	
+	Condition AttackAmuletPerfection * MaxAffixes >= 2.8
+	Warn Interesting Amulet
+
+	#Leveling Amulets
+	Condition 1.3*TotalLife + TotalResistances + AddedPhysicalAttackDamage*3 - LvlReq >= 90 && LvlReq <= 55
+	Warn Leveling Amulet
+
+

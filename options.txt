@@ -1,0 +1,5 @@
+messagePrefix=@# 
+launchPoEOnStart=true
+currentFilter=default.filter
+checkForUpdates=true
+useDoubleclick=true
